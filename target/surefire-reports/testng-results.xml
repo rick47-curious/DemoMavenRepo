@@ -2,32 +2,32 @@
 <testng-results ignored="0" total="3" passed="2" failed="1" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2020-07-17T14:51:40Z" name="Suite" finished-at="2020-07-17T14:51:42Z" duration-ms="2074">
+  <suite started-at="2020-07-18T11:06:34Z" name="Suite" finished-at="2020-07-18T11:06:38Z" duration-ms="3811">
     <groups>
     </groups>
-    <test started-at="2020-07-17T14:51:40Z" name="Test" finished-at="2020-07-17T14:51:42Z" duration-ms="2074">
+    <test started-at="2020-07-18T11:06:34Z" name="Test" finished-at="2020-07-18T11:06:38Z" duration-ms="3811">
       <class name="com.testDriver.TestDriver">
-        <test-method is-config="true" signature="LoadingInitializer()[pri:0, instance:com.testDriver.TestDriver@6daf7d37]" started-at="2020-07-17T14:51:41Z" name="LoadingInitializer" finished-at="2020-07-17T14:51:41Z" duration-ms="54" status="PASS">
+        <test-method is-config="true" signature="LoadingInitializer()[pri:0, instance:com.testDriver.TestDriver@212dfd39]" started-at="2020-07-18T11:06:34Z" name="LoadingInitializer" finished-at="2020-07-18T11:06:34Z" duration-ms="44" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- LoadingInitializer -->
-        <test-method signature="introTest()[pri:1, instance:com.testDriver.TestDriver@6daf7d37]" started-at="2020-07-17T14:51:41Z" name="introTest" description="Intro" finished-at="2020-07-17T14:51:42Z" duration-ms="1128" status="PASS">
+        <test-method signature="introTest()[pri:1, instance:com.testDriver.TestDriver@212dfd39]" started-at="2020-07-18T11:06:35Z" name="introTest" description="Intro" finished-at="2020-07-18T11:06:38Z" duration-ms="2216" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- introTest -->
-        <test-method is-config="true" signature="LoadingInitializer()[pri:0, instance:com.testDriver.TestDriver@6daf7d37]" started-at="2020-07-17T14:51:42Z" name="LoadingInitializer" finished-at="2020-07-17T14:51:42Z" duration-ms="1" status="PASS">
+        <test-method is-config="true" signature="LoadingInitializer()[pri:0, instance:com.testDriver.TestDriver@212dfd39]" started-at="2020-07-18T11:06:38Z" name="LoadingInitializer" finished-at="2020-07-18T11:06:38Z" duration-ms="2" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- LoadingInitializer -->
-        <test-method signature="testCase1()[pri:2, instance:com.testDriver.TestDriver@6daf7d37]" started-at="2020-07-17T14:51:42Z" name="testCase1" description="First Testcase" finished-at="2020-07-17T14:51:42Z" duration-ms="13" status="PASS">
+        <test-method signature="testCase1()[pri:2, instance:com.testDriver.TestDriver@212dfd39]" started-at="2020-07-18T11:06:38Z" name="testCase1" description="First Testcase" finished-at="2020-07-18T11:06:38Z" duration-ms="12" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- testCase1 -->
-        <test-method is-config="true" signature="LoadingInitializer()[pri:0, instance:com.testDriver.TestDriver@6daf7d37]" started-at="2020-07-17T14:51:42Z" name="LoadingInitializer" finished-at="2020-07-17T14:51:42Z" duration-ms="1" status="PASS">
+        <test-method is-config="true" signature="LoadingInitializer()[pri:0, instance:com.testDriver.TestDriver@212dfd39]" started-at="2020-07-18T11:06:38Z" name="LoadingInitializer" finished-at="2020-07-18T11:06:38Z" duration-ms="2" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- LoadingInitializer -->
-        <test-method signature="testCase2()[pri:3, instance:com.testDriver.TestDriver@6daf7d37]" started-at="2020-07-17T14:51:42Z" name="testCase2" description="Second Testcase" finished-at="2020-07-17T14:51:42Z" duration-ms="9" status="FAIL">
+        <test-method signature="testCase2()[pri:3, instance:com.testDriver.TestDriver@212dfd39]" started-at="2020-07-18T11:06:38Z" name="testCase2" description="Second Testcase" finished-at="2020-07-18T11:06:38Z" duration-ms="8" status="FAIL">
           <exception class="java.lang.AssertionError">
             <message>
               <![CDATA[expected [false] but found [true]]]>

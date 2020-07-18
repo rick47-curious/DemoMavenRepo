@@ -1,8 +1,8 @@
 -------------------------------------------------------------------------------
 Test set: TestSuite
 -------------------------------------------------------------------------------
-Tests run: 3, Failures: 1, Errors: 0, Skipped: 0, Time elapsed: 8.916 sec <<< FAILURE! - in TestSuite
-testCase2(com.testDriver.TestDriver)  Time elapsed: 0.048 sec  <<< FAILURE!
+Tests run: 3, Failures: 1, Errors: 0, Skipped: 0, Time elapsed: 8.11 sec <<< FAILURE! - in TestSuite
+testCase2(com.testDriver.TestDriver)  Time elapsed: 0.125 sec  <<< FAILURE!
 java.lang.AssertionError: expected [false] but found [true]
 	at org.testng.Assert.fail(Assert.java:96)
 	at org.testng.Assert.failNotEquals(Assert.java:776)
